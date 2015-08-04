@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: a74425675bec35142ad2144d1a61f3dd
+timeCreated: 1429730979
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: jump_right_0
+    21300002: jump_right_1
+    21300004: jump_right_2
+    21300006: jump_right_3
+    21300008: jump_right_4
+    21300010: jump_right_5
+    21300012: jump_right_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: jump_right_0
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1
+        width: 143
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump_right_1
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1
+        width: 144
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump_right_2
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 0
+        width: 108
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump_right_3
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1
+        width: 108
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump_right_4
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 3
+        width: 152
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump_right_5
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 6
+        width: 171
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump_right_6
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 5
+        width: 141
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
